@@ -1,6 +1,6 @@
 # Preview:
 ![image](https://github.com/user-attachments/assets/34fee9f7-4d83-41eb-8b98-591e1a02ea8a)
-![image](https://github.com/user-attachments/assets/7fc89b5d-7986-4ea2-876a-882042819728)
+![image](https://github.com/user-attachments/assets/8fbef649-535a-4bb2-8bb1-2541aa72c510)
 
 # Guide
 1. **Enabling tabs group:**
