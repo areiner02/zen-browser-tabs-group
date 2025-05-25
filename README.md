@@ -1,3 +1,9 @@
+# Preview:
+![image](https://github.com/user-attachments/assets/34fee9f7-4d83-41eb-8b98-591e1a02ea8a)
+![image](https://github.com/user-attachments/assets/699b3bc5-0d6c-472d-a203-123dd6974cf3)
+
+
+# Guide:
 1. Enabling tabs group:
    1.1 Enter about:config in the URL
    1.2 Set browser.tabs.groups.enabled to true
