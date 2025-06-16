@@ -56,7 +56,7 @@ tab-group {
       & > label::before {
         content: "" !important;
         position: absolute !important;
-        left: 10px !important;
+        left: 16px !important;
         top: 18%;
         width: 16px !important;
         height: 16px !important;
